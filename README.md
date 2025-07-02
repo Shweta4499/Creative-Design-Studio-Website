@@ -16,7 +16,7 @@
 
 ## 🖥️ Live Preview
 
-👉 [View Preview On Youtube] (https://your-username.github.io/brand/](https://youtu.be/QBH4_yxU1Zs?si=0Q--LfU81O8t8gAP))  
+👉 [View Preview On Youtube] (https://youtu.be/QBH4_yxU1Zs?si=0Q--LfU81O8t8gAP))  
 
 ## 📁 Folder Structure
 │
